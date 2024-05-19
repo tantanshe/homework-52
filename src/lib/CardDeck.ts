@@ -1,7 +1,7 @@
 import Card from './Card';
 
 class CardDeck {
-  private cards: Card[];
+  public cards: Card[];
 
   constructor() {
     const suits = ['hearts', 'diams', 'clubs', 'spades'];
