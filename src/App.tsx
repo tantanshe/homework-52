@@ -1,12 +1,14 @@
 import './App.css'
 
+
 const App = () => {
 
-  return (
-    <>
+    return (
+        <div className="playingCards faceImages">
 
-    </>
-  )
+        </div>
+
+    )
 };
 
 export default App
