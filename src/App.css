@@ -9,9 +9,26 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 20px;
+  margin: 50px 0;
 }
 
 .App {
   text-align: center;
+  font-family: Arial, sans-serif;
+  color: #4c776d;
+  background-color: #d2f3f0;
+  padding: 15px;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+
+.btn {
+  background-color: #aeecec;
+  border: 2px solid #95d1d1;
+  border-radius: 10px;
+  padding: 10px;
+  color: #496e65;
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  font-size: 16px;
 }
